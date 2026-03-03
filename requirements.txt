@@ -1,0 +1,7 @@
+# This project primarily uses Python standard library modules.
+# No external dependencies are strictly required for runtime.
+
+# Development dependencies (e.g., for testing, linting) are handled
+# directly in the CI/CD workflow or can be installed separately for local development.
+# pytest
+# flake8
